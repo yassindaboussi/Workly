@@ -17,7 +17,7 @@ export default function Home() {
               <div className="flex items-center gap-2">
                 <div className="w-10 h-10 rounded-lg overflow-hidden bg-white flex items-center justify-center">
                   <Image
-                    src="/w.png"
+                    src="/logo/w.png"
                     alt="Worqly logo"
                     width={40}
                     height={40}
@@ -490,7 +490,7 @@ export default function Home() {
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-lg overflow-hidden bg-white flex items-center justify-center">
                 <Image
-                  src="/w.png"
+                  src="/logo/w.png"
                   alt="Worqly logo"
                   width={28}
                   height={28}
